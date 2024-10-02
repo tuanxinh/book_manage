@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "moment-timezone": "^0.5.45",
+    "mongoo": "^0.3.5",
+    "mongoose": "^8.6.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "vite-plugin-node": "^3.1.0"
+  }
+}

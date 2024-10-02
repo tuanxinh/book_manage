@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\controller\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\controller\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|e:\\project_javgroup\\librarymanageapp\\librarymanage\\librarymanage\\dataaccess\\bookmanagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\dataaccess\\bookmanagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\businesslogic\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\businesslogic\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\businesslogic\\bookmanagelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\businesslogic\\bookmanagelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\dataaccess\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\dataaccess\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\model\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\model\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\model\\bookmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\model\\bookmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\model\\messlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\model\\messlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\businesslogic\\userlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\businesslogic\\userlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\presentation\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\presentation\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\librarymanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3CE3D7-B756-4BEA-88FC-86F4B8876BEE}|LibraryManage\\LibraryManage.csproj|solutionrelative:librarymanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fManage.cs [Design]",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fManage.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fManage.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fManage.cs [Design]",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:16:22.322Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fManage.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fManage.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fManage.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fManage.cs",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fManage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:25:42.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\DataAccess\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\DataAccess\\UserRepository.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\DataAccess\\UserRepository.cs",
+              "RelativeToolTip": "LibraryManage\\DataAccess\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:34:05.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fLogin.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fLogin.cs",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fLogin.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAawCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:39:31.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Program.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Program.cs",
+              "RelativeToolTip": "LibraryManage\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:55:40.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fMain.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fMain.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fMain.cs",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fMain.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:52:58.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fMain.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fMain.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fMain.cs [Design]",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:34:36.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\DataAccess\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\DataAccess\\BookRepository.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\DataAccess\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManage\\DataAccess\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:15:32.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fUsers.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fUsers.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fUsers.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fUsers.cs",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fUsers.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAADwvx8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:10:37.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fUsers.cs [Design]",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fUsers.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fUsers.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fUsers.cs [Design]",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:10:35.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fLogin.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fLogin.cs [Design]",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:10:32.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fBooks.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fBooks.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fBooks.cs",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fBooks.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:08:33.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fBooks.cs [Design]",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Presentation\\fBooks.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Presentation\\fBooks.cs [Design]",
+              "RelativeToolTip": "LibraryManage\\Presentation\\fBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:08:32.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessLogin.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\MessLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Model\\MessLogin.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\MessLogin.cs",
+              "RelativeToolTip": "LibraryManage\\Model\\MessLogin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:03:09.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Books.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\Books.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Model\\Books.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\Books.cs",
+              "RelativeToolTip": "LibraryManage\\Model\\Books.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:46:30.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Model\\Users.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\Users.cs",
+              "RelativeToolTip": "LibraryManage\\Model\\Users.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwCYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:37:16.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLibrary.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\BusinessLogic\\UserLibrary.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\BusinessLogic\\UserLibrary.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\BusinessLogic\\UserLibrary.cs",
+              "RelativeToolTip": "LibraryManage\\BusinessLogic\\UserLibrary.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAlwHwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:23:15.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\BusinessLogic\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\BusinessLogic\\BookLibrary.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\BusinessLogic\\BookLibrary.cs",
+              "RelativeToolTip": "LibraryManage\\BusinessLogic\\BookLibrary.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAcwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:23:13.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManageRepository.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\DataAccess\\BookManageRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\DataAccess\\BookManageRepository.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\DataAccess\\BookManageRepository.cs",
+              "RelativeToolTip": "LibraryManage\\DataAccess\\BookManageRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:23:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManageLibrary.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\BusinessLogic\\BookManageLibrary.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\BusinessLogic\\BookManageLibrary.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\BusinessLogic\\BookManageLibrary.cs",
+              "RelativeToolTip": "LibraryManage\\BusinessLogic\\BookManageLibrary.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAtwG4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:22:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookManage.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\BookManage.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Model\\BookManage.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Model\\BookManage.cs",
+              "RelativeToolTip": "LibraryManage\\Model\\BookManage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:18:39.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Controller\\Service.cs",
+              "RelativeDocumentMoniker": "LibraryManage\\Controller\\Service.cs",
+              "ToolTip": "E:\\ProJect_JavGroup\\LibraryManageApp\\LibraryManage\\LibraryManage\\Controller\\Service.cs",
+              "RelativeToolTip": "LibraryManage\\Controller\\Service.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:16:28.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

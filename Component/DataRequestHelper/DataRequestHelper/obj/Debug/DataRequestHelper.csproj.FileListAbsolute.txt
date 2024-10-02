@@ -1,0 +1,9 @@
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\bin\Debug\DataRequestHelper.dll
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\bin\Debug\DataRequestHelper.pdb
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\bin\Debug\Newtonsoft.Json.dll
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\bin\Debug\Newtonsoft.Json.xml
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\obj\Debug\DataRequestHelper.csproj.AssemblyReference.cache
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\obj\Debug\DataRequestHelper.csproj.CoreCompileInputs.cache
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\obj\Debug\DataRequ.2655133A.Up2Date
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\obj\Debug\DataRequestHelper.dll
+E:\ProJect_JavGroup\LibraryManageApp\Component\DataRequestHelper\DataRequestHelper\obj\Debug\DataRequestHelper.pdb
